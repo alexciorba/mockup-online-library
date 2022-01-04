@@ -1,0 +1,5 @@
+123,tata bogat tata sarac,dezvoltare
+124,cel mai bogat om din babilon,dezvoltare
+125,ion,scoala
+126,mara,scoala
+127,poezii,poezie
